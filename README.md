@@ -14,7 +14,8 @@ A self-taught Full Stack Web Developer with a passion for crafting clean, scalab
 - #### Tanstack Query
 - #### Integrating Payment gateway
 
-#### I am currently working on a project called ZapShift
+#### I am currently working on: 
+- #### A project called ZapShift - It's a B2C Parcel Management & Delivery System
 
 
 # 📊 GitHub Stats:
