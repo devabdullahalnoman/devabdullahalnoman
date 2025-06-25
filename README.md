@@ -1,3 +1,4 @@
+<img src="https://github.com/devabdullahalnoman/devabdullahalnoman/blob/main/github-banner.jpg"></img>
 # Hi there 👋, This is Abdullah Al Noman
 ### I am a full-stack web developer
 
