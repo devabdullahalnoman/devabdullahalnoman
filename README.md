@@ -15,7 +15,7 @@ A self-taught Full Stack Web Developer with a passion for crafting clean, scalab
 - #### Tanstack Query
 - #### Integrating Payment gateway
 
-#### I am currently working on: 
+# I am currently working on: 
 - #### A project called ZapShift - It's a B2C Parcel Management & Delivery System
 
 
@@ -23,9 +23,6 @@ A self-taught Full Stack Web Developer with a passion for crafting clean, scalab
 ![](https://github-readme-stats.vercel.app/api?username=devabdullahalnoman&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devabdullahalnoman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devabdullahalnoman&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devabdullahalnoman&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=devabdullahalnoman&limit=5&theme=dark&combine_all_yearly_contributions=true)
