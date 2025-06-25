@@ -1,6 +1,6 @@
 # Hi there 👋, This is Abdullah Al Noman
 ### I am a full-stack web developer
-![I am a full-stack web developer]
+
 A self-taught Full Stack Web Developer with a passion for crafting clean, scalable, and intuitive web applications using the MERN Stack (MongoDB, Express, React, Node.js).<br><br>From building responsive frontends with React to architecting robust backends with express.js and MongoDB, I love turning ideas into dynamic, user-friendly experiences. I’m detail-oriented, constantly learning, and thrive in environments where creativity meets efficiency.
 
 
